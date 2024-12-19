@@ -1,0 +1,16 @@
+langchain_google_genai
+langgraph
+langchain_openai
+langchain_community
+fastapi
+uvicorn
+python-dotenv
+faiss-cpu
+psycopg_pool
+sqlmodel
+langchain_core
+psycopg
+passlib
+pypdf 
+python-jose
+python-multipart
